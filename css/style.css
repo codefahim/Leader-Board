@@ -1,0 +1,13 @@
+@font-face {
+    src: url(fonts/BebasNeue.woff);
+    font-family: "bebasNeue";
+}
+
+@font-face {
+    src: url(fonts/Roboto.woff);
+    font-family: "Roboto";
+}
+
+li>a {
+    font-family: bebasNeue;
+}
