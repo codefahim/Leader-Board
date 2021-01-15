@@ -53,3 +53,10 @@ border-0 {
         width: 200%;
     }
 }
+
+@media screen and (max-width: 992px) {
+    .center-top {
+        text-align: center;
+        margin: auto;
+    }
+}
