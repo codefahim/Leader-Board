@@ -60,3 +60,10 @@ border-0 {
         margin: auto;
     }
 }
+
+footer p {
+    text-align: center;
+    color: #b2bec3;
+    font-size: 12px;
+    margin-top: 60px;
+}
